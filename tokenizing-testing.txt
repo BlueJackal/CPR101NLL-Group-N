@@ -1,412 +1,81 @@
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
 4
 *** Start of Tokenizing Words Demo ***
 Type a few words separated by space (q - to quit):
-testword
-Word #1 is 'testword'
-Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
 
-Type a few words separated by space (q - to quit):
-two words
-Word #1 is 'two'
-Word #2 is 'words'
-Type a few words separated by space (q - to quit):
-@#$%^
-Word #1 is '@#$%^'
-Type a few words separated by space (q - to quit):
-One two three four five six seven eight nine ten
-Word #1 is 'One'
-Word #2 is 'two'
-Word #3 is 'three'
-Word #4 is 'four'
-Word #5 is 'five'
-Word #6 is 'six'
-Word #7 is 'seven'
-Word #8 is 'eight'
-Word #9 is 'nine'
-Word #10 is 'ten'
-Type a few words separated by space (q - to quit):
-First run
-Word #1 is 'First'
-Word #2 is 'run'
-Type a few words separated by space (q - to quit):
-Second run
-Word #1 is 'Second'
-Word #2 is 'run'
-Type a few words separated by space (q - to quit):
-Third run
-Word #1 is 'Third'
-Word #2 is 'run'
-Type a few words separated by space (q - to quit):
-Fourth run
-Word #1 is 'Fourth'
-Word #2 is 'run'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-lorem ipsum dolor sit amet
-Word #1 is 'lorem'
-Word #2 is 'ipsum'
-Word #3 is 'dolor'
-Word #4 is 'sit'
-Word #5 is 'amet'
-Type a few words separated by space (q - to quit):
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Word #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
-Type a few words separated by space (q - to quit):
-Word #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
-Type a few words separated by space (q - to quit):
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
- bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-Word #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
-Word #2 is 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
-Word #3 is 'cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'
-Type a few words separated by space (q - to quit):
-Word #1 is 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'
-Type a few words separated by space (q - to quit):
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+snake,turkey,pterodactyl
+Phrase #1 is 'snake'
+Phrase #2 is 'turkey'
+Phrase #3 is 'pterodactyl'
+Type a few phrases separated by comma(q - to quit):
+snake
+Phrase #1 is 'snake'
+Type a few phrases separated by comma(q - to quit):
+a
+Phrase #1 is 'a'
+Type a few phrases separated by comma(q - to quit):
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Phrase #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Type a few phrases separated by comma(q - to quit):
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Phrase #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Phrase #2 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Type a few phrases separated by comma(q - to quit):
+entry,one
+Phrase #1 is 'entry'
+Phrase #2 is 'one'
+Type a few phrases separated by comma(q - to quit):
+entry,two
+Phrase #1 is 'entry'
+Phrase #2 is 'two'
+Type a few phrases separated by comma(q - to quit):
+entry,three
+Phrase #1 is 'entry'
+Phrase #2 is 'three'
+Type a few phrases separated by comma(q - to quit):
+entry,four
+Phrase #1 is 'entry'
+Phrase #2 is 'four'
+Type a few phrases separated by comma(q - to quit):
+entry,five
+Phrase #1 is 'entry'
+Phrase #2 is 'five'
+Type a few phrases separated by comma(q - to quit):
+
+Type a few phrases separated by comma(q - to quit):
+!@#$%^&,!@#$%^&,!@#$%^&
+Phrase #1 is '!@#$%^&'
+Phrase #2 is '!@#$%^&'
+Phrase #3 is '!@#$%^&'
+Type a few phrases separated by comma(q - to quit):
+test,,,test,,,test
+Phrase #1 is 'test'
+Phrase #2 is 'test'
+Phrase #3 is 'test'
+Type a few phrases separated by comma(q - to quit):
+test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,test
+Phrase #1 is 'test'
+Phrase #2 is 'test'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+C:\Users\Chris\OneDrive\Desktop\Seneca Fall2022\_CPR101 - Computer Principles\CPR_final_v2\group_n_version_2\x64\Debug\group_n_version_2.exe (process 57940) exited with code 0.
+Press any key to close this window . . .

@@ -18,10 +18,10 @@ int main(void)
 		fgets(buff, 10, stdin);											//capture user's menu selection
 		switch (buff[0])
 		{
-			case '1': fundamentals();									//run the module based on the user's selection
-				break;
-			case '2': manipulating();
-				break;
+		case '1': fundamentals();									//run the module based on the user's selection
+			break;
+		case '2': manipulating();
+			break;
 		case '3': converting();
 			break;
 		case '4': tokenizing();

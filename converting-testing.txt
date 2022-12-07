@@ -1,53 +1,81 @@
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
 3
 *** Start of Converting Strings to int Demo ***
 Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numberic string (q - to quit):
+1000
+Converted number is 1000.000000
+Type the double numberic string (q - to quit):
+-1000
+Converted number is -1000.000000
+Type the double numberic string (q - to quit):
+"1000"
+Converted number is 0.000000
+Type the double numberic string (q - to quit):
+asdf
+Converted number is 0.000000
+Type the double numberic string (q - to quit):
+100
+Converted number is 100.000000
+Type the double numberic string (q - to quit):
+200
+Converted number is 200.000000
+Type the double numberic string (q - to quit):
+300
+Converted number is 300.000000
+Type the double numberic string (q - to quit):
+4005
+Converted number is 4005.000000
+Type the double numberic string (q - to quit):
+500
+Converted number is 500.000000
+Type the double numberic string (q - to quit):
+600
+Converted number is 600.000000
+Type the double numberic string (q - to quit):
+700
+Converted number is 700.000000
+Type the double numberic string (q - to quit):
+800
+Converted number is 800.000000
+Type the double numberic string (q - to quit):
+900
+Converted number is 900.000000
+Type the double numberic string (q - to quit):
+1000
+Converted number is 1000.000000
+Type the double numberic string (q - to quit):
+
+Converted number is 0.000000
+Type the double numberic string (q - to quit):
 1
-Converted number is 1
-Type an int numeric string (q - to quit:
--1
-Converted number is -1
-Type an int numeric string (q - to quit:
-1 2 3 4 5
-Converted number is 1
-Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
-11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-Converted number is 2147483647
-Type an int numeric string (q - to quit:
-Converted number is 2147483647
-Type an int numeric string (q - to quit:
-Converted number is 2147483647
-Type an int numeric string (q - to quit:
-Converted number is 2147483647
-Type an int numeric string (q - to quit:
-Converted number is 2147483647
-Type an int numeric string (q - to quit:
-abcdefg
-Converted number is 0
-Type an int numeric string (q - to quit:
+Converted number is 1.000000
+Type the double numberic string (q - to quit):
+11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Converted number is 111111111111111107769678707941548484793531078712317572818014139101752095408128.000000
+Type the double numberic string (q - to quit):
+Converted number is 1.000000
+Type the double numberic string (q - to quit):
+111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Converted number is 111111111111111107769678707941548484793531078712317572818014139101752095408128.000000
+Type the double numberic string (q - to quit):
+Converted number is 11.000000
+Type the double numberic string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?

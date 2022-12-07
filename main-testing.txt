@@ -1,6 +1,6 @@
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
@@ -10,9 +10,15 @@ Type not empty string (q - to quit):
 q
 *** End of Indexing Strings Demo ***
 
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+q
+The length of 'q' is 1 characters
+*** End of Measuring Strings Demo ***
+
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
@@ -22,21 +28,31 @@ Type the 1st string (q - to quit):
 q
 *** End of Concatenating Strings Demo ***
 
-1 - Fundamentals
-2 - Manipulation
-3 - Convering
-4 - Tokenizing
-0 - Exit
-Which module to run?
-3
-*** Start of Converting Strings to int Demo ***
-Type an int numeric string (q - to quit:
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
 q
-*** End of Converting Strings to int Demo ***
+Type the 2nd string to compare:
+3
+'q' string is greater than '3'
+*** End of Comparing Strings Demo ***
 
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+q
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+q
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
@@ -46,16 +62,21 @@ Type a few words separated by space (q - to quit):
 q
 *** End of Tokenizing Words Demo ***
 
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
 1
 *** Start of Indexing Strings Demo ***
 Type not empty string (q - to quit):
-Testing fundamentals by inputting a non-empty string
+Testing fundamentals by inputting this non-empty string
 Type the character position within the string:
 9
 The character found at 9 position is 'u'
@@ -83,9 +104,30 @@ Type not empty string (q - to quit):
 q
 *** End of Indexing Strings Demo ***
 
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+Pumpkins are great
+The length of 'Pumpkins are great' is 18 characters
+Type a string (q - to quit):
+test
+The length of 'test' is 4 characters
+Type a string (q - to quit):
+test 2
+The length of 'test 2' is 6 characters
+Type a string (q - to quit):
+test 3
+The length of 'test 3' is 6 characters
+Type a string (q - to quit):
+test 4
+The length of 'test 4' is 6 characters
+Type a string (q - to quit):
+q
+The length of 'q' is 1 characters
+*** End of Measuring Strings Demo ***
+
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
@@ -97,10 +139,15 @@ Type the 2nd string:
  second
 Concatenated string is 'first second'
 Type the 1st string (q - to quit):
+first
+Type the 2nd string:
+ second
+Concatenated string is 'first second'
+Type the 1st string (q - to quit):
 third
 Type the 2nd string:
-fourth
-Concatenated string is 'thirdfourth'
+ fourth
+Concatenated string is 'third fourth'
 Type the 1st string (q - to quit):
 fifth
 Type the 2nd string:
@@ -110,14 +157,45 @@ Type the 1st string (q - to quit):
 q
 *** End of Concatenating Strings Demo ***
 
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+television
+Type the 2nd string to compare:
+pineapple
+'television' string is greater than 'pineapple'
+Type the 1st string to compare (q - to quit):
+television
+Type the 2nd string to compare:
+pineapple
+'television' string is greater than 'pineapple'
+Type the 1st string to compare (q - to quit):
+aligator
+Type the 2nd string to compare:
+airplane
+'aligator' string is greater than 'airplane'
+Type the 1st string to compare (q - to quit):
+universe
+Type the 2nd string to compare:
+potato
+'universe' string is greater than 'potato'
+Type the 1st string to compare (q - to quit):
+q
+Type the 2nd string to compare:
+q
+'q' string is equal to 'q'
+*** End of Comparing Strings Demo ***
+
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
 3
 *** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
 Type an int numeric string (q - to quit:
 1234
 Converted number is 1234
@@ -128,20 +206,43 @@ Type an int numeric string (q - to quit:
 9101112
 Converted number is 9101112
 Type an int numeric string (q - to quit:
-1234
-Converted number is 1234
-Type an int numeric string (q - to quit:
 q
 *** End of Converting Strings to int Demo ***
 
+*** Start of Converting Strings to double Demo ***
+Type the double numberic string (q - to quit):
+100
+Converted number is 100.000000
+Type the double numberic string (q - to quit):
+200
+Converted number is 200.000000
+Type the double numberic string (q - to quit):
+300
+Converted number is 300.000000
+Type the double numberic string (q - to quit):
+400
+Converted number is 400.000000
+Type the double numberic string (q - to quit):
+500
+Converted number is 500.000000
+Type the double numberic string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
+
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
 4
 *** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+Writing a few words
+Word #1 is 'Writing'
+Word #2 is 'a'
+Word #3 is 'few'
+Word #4 is 'words'
 Type a few words separated by space (q - to quit):
 Writing a few words
 Word #1 is 'Writing'
@@ -164,13 +265,33 @@ Type a few words separated by space (q - to quit):
 q
 *** End of Tokenizing Words Demo ***
 
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+eagle,hippo,platypus
+Phrase #1 is 'eagle'
+Phrase #2 is 'hippo'
+Phrase #3 is 'platypus'
+Type a few phrases separated by comma(q - to quit):
+rhino,giraffe,salmon
+Phrase #1 is 'rhino'
+Phrase #2 is 'giraffe'
+Phrase #3 is 'salmon'
+Type a few phrases separated by comma(q - to quit):
+preying mantis, rattlesnake, bengal tiger
+Phrase #1 is 'preying mantis'
+Phrase #2 is ' rattlesnake'
+Phrase #3 is ' bengal tiger'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
 1 - Fundamentals
 2 - Manipulation
-3 - Convering
+3 - Converting
 4 - Tokenizing
 0 - Exit
 Which module to run?
 0
 
-C:\Users\Chris\OneDrive\Desktop\Seneca Fall2022\_CPR101 - Computer Principles\CPR_final\main\group_n_main\x64\Debug\group_n_main.exe (process 30596) exited with code 0.
+C:\Users\Chris\OneDrive\Desktop\Seneca Fall2022\_CPR101 - Computer Principles\CPR_final_v2\group_n_version_2\x64\Debug\group_n_version_2.exe (process 27724) exited with code 0.
 Press any key to close this window . . .
