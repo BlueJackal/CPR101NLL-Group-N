@@ -1,0 +1,176 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit:
+q
+*** End of Converting Strings to int Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+Testing fundamentals by inputting a non-empty string
+Type the character position within the string:
+9
+The character found at 9 position is 'u'
+Type not empty string (q - to quit):
+Test 1
+Type the character position within the string:
+3
+The character found at 3 position is 't'
+Type not empty string (q - to quit):
+Test 2
+Type the character position within the string:
+3
+The character found at 3 position is 't'
+Type not empty string (q - to quit):
+Test 3
+Type the character position within the string:
+2
+The character found at 2 position is 's'
+Type not empty string (q - to quit):
+Test 4
+Type the character position within the string:
+1
+The character found at 1 position is 'e'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+first
+Type the 2nd string:
+ second
+Concatenated string is 'first second'
+Type the 1st string (q - to quit):
+third
+Type the 2nd string:
+fourth
+Concatenated string is 'thirdfourth'
+Type the 1st string (q - to quit):
+fifth
+Type the 2nd string:
+ sixth
+Concatenated string is 'fifth sixth'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+5678
+Converted number is 5678
+Type an int numeric string (q - to quit:
+9101112
+Converted number is 9101112
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+q
+*** End of Converting Strings to int Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+Writing a few words
+Word #1 is 'Writing'
+Word #2 is 'a'
+Word #3 is 'few'
+Word #4 is 'words'
+Type a few words separated by space (q - to quit):
+and then some more
+Word #1 is 'and'
+Word #2 is 'then'
+Word #3 is 'some'
+Word #4 is 'more'
+Type a few words separated by space (q - to quit):
+and even more after
+Word #1 is 'and'
+Word #2 is 'even'
+Word #3 is 'more'
+Word #4 is 'after'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+C:\Users\Chris\OneDrive\Desktop\Seneca Fall2022\_CPR101 - Computer Principles\CPR_final\main\group_n_main\x64\Debug\group_n_main.exe (process 30596) exited with code 0.
+Press any key to close this window . . .

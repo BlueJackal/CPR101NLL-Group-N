@@ -1,0 +1,412 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+testword
+Word #1 is 'testword'
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+two words
+Word #1 is 'two'
+Word #2 is 'words'
+Type a few words separated by space (q - to quit):
+@#$%^
+Word #1 is '@#$%^'
+Type a few words separated by space (q - to quit):
+One two three four five six seven eight nine ten
+Word #1 is 'One'
+Word #2 is 'two'
+Word #3 is 'three'
+Word #4 is 'four'
+Word #5 is 'five'
+Word #6 is 'six'
+Word #7 is 'seven'
+Word #8 is 'eight'
+Word #9 is 'nine'
+Word #10 is 'ten'
+Type a few words separated by space (q - to quit):
+First run
+Word #1 is 'First'
+Word #2 is 'run'
+Type a few words separated by space (q - to quit):
+Second run
+Word #1 is 'Second'
+Word #2 is 'run'
+Type a few words separated by space (q - to quit):
+Third run
+Word #1 is 'Third'
+Word #2 is 'run'
+Type a few words separated by space (q - to quit):
+Fourth run
+Word #1 is 'Fourth'
+Word #2 is 'run'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+lorem ipsum dolor sit amet
+Word #1 is 'lorem'
+Word #2 is 'ipsum'
+Word #3 is 'dolor'
+Word #4 is 'sit'
+Word #5 is 'amet'
+Type a few words separated by space (q - to quit):
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Word #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Type a few words separated by space (q - to quit):
+Word #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Type a few words separated by space (q - to quit):
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+Word #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Word #2 is 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
+Word #3 is 'cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'
+Type a few words separated by space (q - to quit):
+Word #1 is 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'
+Type a few words separated by space (q - to quit):

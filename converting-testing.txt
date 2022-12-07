@@ -1,0 +1,53 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Convering
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+1
+Converted number is 1
+Type an int numeric string (q - to quit:
+-1
+Converted number is -1
+Type an int numeric string (q - to quit:
+1 2 3 4 5
+Converted number is 1
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
+Type an int numeric string (q - to quit:
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Converted number is 2147483647
+Type an int numeric string (q - to quit:
+Converted number is 2147483647
+Type an int numeric string (q - to quit:
+Converted number is 2147483647
+Type an int numeric string (q - to quit:
+Converted number is 2147483647
+Type an int numeric string (q - to quit:
+Converted number is 2147483647
+Type an int numeric string (q - to quit:
+abcdefg
+Converted number is 0
+Type an int numeric string (q - to quit:

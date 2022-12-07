@@ -1,0 +1,339 @@
+2. - Manipulating
+0. - Exit
+Which module to run
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+2. - Manipulating
+0. - Exit
+Which module to run
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+a
+Type the 2nd string:
+b
+Concatenated string is 'ab'
+Type the 1st string (q - to quit):
+abcdefghijklmnopqrstuvwxyz
+Type the 2nd string:
+abcdefghijklmnopqrstuvwxyz
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'
+Type the 1st string (q - to quit):
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyza
+Type the 2nd string:
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'
+Type the 1st string (q - to quit):
+12345678901234567890123456
+Type the 2nd string:
+abcdefghijklmnopqrstuvwxyz
+Concatenated string is '12345678901234567890123456abcdefghijklmnopqrstuvwxyz'
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+Concatenated string is ''
+Type the 1st string (q - to quit):
+\.’;<,>/":[]{}+-_=
+Type the 2nd string:
+\.’;<,>/":[]{}+-_=
+Concatenated string is '\.';<,>/":[]{}+-_=\.';<,>/":[]{}+-_='
+Type the 1st string (q - to quit):
+1cD34/.>43gfdhtr43":
+Type the 2nd string:
+>sdfsQ"E343"S@@)%$:
+Concatenated string is '1cD34/.>43gfdhtr43":>sdfsQ"E343"S@@)%$:'
+Type the 1st string (q - to quit):
+535dfgs
+Type the 2nd string:
+Sfsgegjh
+Concatenated string is '535dfgsSfsgegjh'
+Type the 1st string (q - to quit):
+4535hfa
+Type the 2nd string:
+;’p[fhsdf
+Concatenated string is '4535hfa;'p[fhsdf'
+Type the 1st string (q - to quit):
+. m,res//
+Type the 2nd string:
+3535sdfgdw
+Concatenated string is '. m,res//3535sdfgdw'
+Type the 1st string (q - to quit):
+abcdefg
+Type the 2nd string:
+q
+Concatenated string is 'abcdefgq'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
+1234567890
+Type the 2nd string:
+1234567890
+Concatenated string is '12345678901234567890'
+Type the 1st string (q - to quit):
