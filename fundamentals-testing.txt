@@ -2,72 +2,146 @@
 0. - Exit
 Which module to run
 1
-*** Start of Measuring Strings Demo ***
-Type a string (q - to quit):
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit):
 q
-The length of 'q' is 1 characters
-*** End of Measuring Strings Demo ***
+New destination string is 'q'
+*** End of Copying Strings Demo ***
 
 1. - Fundamental
 0. - Exit
 Which module to run
 1
-*** Start of Measuring Strings Demo ***
-Type a string (q - to quit):
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit):
 a
-The length of 'a' is 1 characters
-Type a string (q - to quit):
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
 abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefg
-The length of 'abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdef' is 78 characters
-Type a string (q - to quit):
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
+New destination string is 'abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdef'
+Destination string is reset to empty
+Type the source string (q - to quit):
+Destination string is reset to empty
+Type the source string (q - to quit):
 0123456789
-The length of '0123456789' is 10 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz0123456789
-The length of 'abcdefghijklmnopqrstuvwxyz0123456789' is 36 characters
-Type a string (q - to quit):
-}:{}+_=-*></
-The length of '}:{}+_=-*></' is 12 characters
-Type a string (q - to quit):
-:23P][Vs9
-The length of ':23P][Vs9' is 9 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
+New destination string is '0123456789'
+Destination string is reset to empty
+Type the source string (q - to quit):
+A3F54D654dsa
+New destination string is 'A3F54D654dsa'
+Destination string is reset to empty
+Type the source string (q - to quit):
+:{>!$^+%&?
+New destination string is ':{>!$^+%&?'
+Destination string is reset to empty
+Type the source string (q - to quit):
 
-Type a string (q - to quit):
+Destination string is reset to empty
+Type the source string (q - to quit):
 
-The length of '                  ' is 18 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-The length of 'abcdefghijklmnopqrstuvwxyz' is 26 characters
-Type a string (q - to quit):
+New destination string is '          '
+Destination string is reset to empty
+Type the source string (q - to quit):
+ლ(´ڡ`ლ)
+New destination string is '?('?`?)'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):
+a
+New destination string is 'a'
+Destination string is reset to empty
+Type the source string (q - to quit):

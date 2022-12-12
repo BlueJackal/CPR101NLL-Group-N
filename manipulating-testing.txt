@@ -2,117 +2,126 @@
 0. - Exit
 Which module to run
 2
-*** Start of Comparing Strings Demo ***
-Type the 1st string to compare (q - to quit):
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit):
+q
+Type the substring:
+q
+'q' found at 0 position
+*** End of Searching Strings Demo ***
+
+2. - Manipulating
+0. - Exit
+Which module to run
+2
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit):
 1
-Type the 2nd string to compare:
+Type the substring:
 1
-'1' string is equal to '1'
-Type the 1st string to compare (q - to quit):
-abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyza
-Type the 2nd string to compare:
-'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz' string is greater than ''
-Type the 1st string to compare (q - to quit):
-abcdefghijklmnopqrstuvwxyz
-Type the 2nd string to compare:
-abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyza
-'abcdefghijklmnopqrstuvwxyz' string is less than 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'
-Type the 1st string to compare (q - to quit):
-Type the 1st string to compare (q - to quit):
+'1' found at 0 position
+Type the string (q - to quit):
+3
+Type the substring:
+1
+Not found
+Type the string (q - to quit):
+a
+Type the substring:
+a
+'a' found at 0 position
+Type the string (q - to quit):
+c
+Type the substring:
+a
+Not found
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
+Type the substring:
 0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
+'0123456789' found at 0 position
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
+Type the substring:
 9876543210
-'0123456789' string is less than '9876543210'
-Type the 1st string to compare (q - to quit):
-9876543210
-Type the 2nd string to compare:
+Not found
+Type the string (q - to quit):
+943gjdsg342
+Type the substring:
+jdsf34df34
+Not found
+Type the string (q - to quit):
+DogHouse23
+Type the substring:
+House
+'House' found at 3 position
+Type the string (q - to quit):
+DogHouse23
+Type the substring:
+g
+'g' found at 2 position
+Type the string (q - to quit):
+:;’[/.;’;[[];’
+Type the substring:
+[]
+'[]' found at 10 position
+Type the string (q - to quit):
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyza
+Type the substring:
+'' found at 0 position
+Type the string (q - to quit):
+Do23DoUrMom
+Type the substring:
+Do
+'Do' found at 0 position
+Type the string (q - to quit):
 0123456789
-'9876543210' string is greater than '0123456789'
-Type the 1st string to compare (q - to quit):
-’;[l[=-=<}#@
-Type the 2nd string to compare:
-({=-=})
-'';[l[=-=<}#@' string is less than '({=-=})'
-Type the 1st string to compare (q - to quit):
-(☭ ͜ʖ ☭)
-Type the 2nd string to compare:
-|◍෴◎|
-'(? ?? ?)' string is less than '|???|'
-Type the 1st string to compare (q - to quit):
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
 0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
-0123456789
-'0123456789' string is equal to '0123456789'
-Type the 1st string to compare (q - to quit):
-0123456789
-Type the 2nd string to compare:
+Type the substring:
+8
+'8' found at 8 position
+Type the string (q - to quit):
