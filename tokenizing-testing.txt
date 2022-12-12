@@ -12,62 +12,68 @@ q
 
 *** Start of Tokenizing Phrases Demo ***
 Type a few phrases separated by comma(q - to quit):
-snake,turkey,pterodactyl
-Phrase #1 is 'snake'
-Phrase #2 is 'turkey'
-Phrase #3 is 'pterodactyl'
-Type a few phrases separated by comma(q - to quit):
-snake
-Phrase #1 is 'snake'
-Type a few phrases separated by comma(q - to quit):
-a
-Phrase #1 is 'a'
-Type a few phrases separated by comma(q - to quit):
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Phrase #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
-Type a few phrases separated by comma(q - to quit):
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Phrase #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
-Phrase #2 is 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
-Type a few phrases separated by comma(q - to quit):
-entry,one
-Phrase #1 is 'entry'
-Phrase #2 is 'one'
-Type a few phrases separated by comma(q - to quit):
-entry,two
-Phrase #1 is 'entry'
-Phrase #2 is 'two'
-Type a few phrases separated by comma(q - to quit):
-entry,three
-Phrase #1 is 'entry'
-Phrase #2 is 'three'
-Type a few phrases separated by comma(q - to quit):
-entry,four
-Phrase #1 is 'entry'
-Phrase #2 is 'four'
-Type a few phrases separated by comma(q - to quit):
-entry,five
-Phrase #1 is 'entry'
-Phrase #2 is 'five'
-Type a few phrases separated by comma(q - to quit):
-
-Type a few phrases separated by comma(q - to quit):
-!@#$%^&,!@#$%^&,!@#$%^&
-Phrase #1 is '!@#$%^&'
-Phrase #2 is '!@#$%^&'
-Phrase #3 is '!@#$%^&'
-Type a few phrases separated by comma(q - to quit):
-test,,,test,,,test
-Phrase #1 is 'test'
-Phrase #2 is 'test'
-Phrase #3 is 'test'
-Type a few phrases separated by comma(q - to quit):
-test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,test
-Phrase #1 is 'test'
-Phrase #2 is 'test'
-Type a few phrases separated by comma(q - to quit):
 q
 *** End of Tokenizing Phrases Demo ***
+
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot(q - to quit):
+werewolves and vampires.are pretty cool
+Sentence #1 is 'werewolves and vampires'
+Sentence #2 is 'are pretty cool'
+Type a few sentences separated by dot(q - to quit):
+Somebody once told me.the world is gonna roll me.I ain't the sharpesttool in the shed.She was looking kind of dumb.with her finger and her thumb.In the shape of an "L" on her forehead
+Sentence #1 is 'Somebody once told me'
+Sentence #2 is 'the world is gonna roll me'
+Sentence #3 is 'I ain't the sharpesttool in the shed'
+Sentence #4 is 'She was looking kind of dumb'
+Sentence #5 is 'with her finger and her thumb'
+Sentence #6 is 'In the shape of an "L" on her forehead'
+Type a few sentences separated by dot(q - to quit):
+Well, the years start coming and they don't stop coming.Fed to the rules and I hit the ground running.Didn't make sense not to live for fun.Your brain gets smart but your head gets dumb
+Sentence #1 is 'Well, the years start coming and they don't stop coming'
+Sentence #2 is 'Fed to the rules and I hit the ground running'
+Sentence #3 is 'Didn't make sense not to live for fun'
+Sentence #4 is 'Your brain gets smart but your head gets dumb'
+Type a few sentences separated by dot(q - to quit):
+Rock paper scissors.
+Sentence #1 is 'Rock paper scissors'
+Type a few sentences separated by dot(q - to quit):
+Jalapeno
+Sentence #1 is 'Jalapeno'
+Type a few sentences separated by dot(q - to quit):
+a
+Sentence #1 is 'a'
+Type a few sentences separated by dot(q - to quit):
+
+Type a few sentences separated by dot(q - to quit):
+1234.5678.9101112
+Sentence #1 is '1234'
+Sentence #2 is '5678'
+Sentence #3 is '9101112'
+Type a few sentences separated by dot(q - to quit):
+@#$%.@#$%.@#$%^&*()
+Sentence #1 is '@#$%'
+Sentence #2 is '@#$%'
+Sentence #3 is '@#$%^&*()'
+Type a few sentences separated by dot(q - to quit):
+Smash Mouth's best known song, with part of its enduring popularity/infSmash Mouth's best known song, with part of its enduring popularitySmSmash Mouth's best known song, with part of its enduring popularity/infamy caused by its inclusion in the opening scene of Shrek. The lyrics are as follows: Somebody once told me the world is gonna roll me I ai
+n't the sharpest tool in the shed She was looking kind of dumb with he
+r finger and her thumb in the shape of an "L" on her forehead [Pre-Cho
+rus] Well, the years start comin' and they don't stop comin' Fed to th
+e rules and I hit the ground runnin' Didn't make sense not to live for
+ fun your brain gets smart but your head gets dumb So much to do, so m
+uch to see So what's wrong with taking the backstreets? You'll never know if you don't go (W-w-wacko) You'll never shine if you don't glow
+Sentence #1 is 'Smash Mouth's best known song, with part of its enduring popularity/infamy caused by its inclusion in the opening scene of Shrek'
+Sentence #2 is ' The lyrics are as follows: Somebody once told me theworld is gonna roll me I ain't the sharpest tool in the shed She was looking kind of dumb with her finger and her t'
+Type a few sentences separated by dot(q - to quit):
+Sentence #1 is 'umb in the shape of an "L" on her forehead [Pre-Chorus] Well, the years start comin' and they don't stop comin' Fed to the rules and I hit the ground runnin' Didn't make sense not to live for fun your brain gets smart but your head gets dumb So much to do, so much to see So what's wrong with takin'
+Type a few sentences separated by dot(q - to quit):
+Sentence #1 is ' the backstreets? You'll never know if you don't go (W-w-wacko) You'll never shine if you don't glow'
+Type a few sentences separated by dot(q - to quit):
+
+Type a few sentences separated by dot(q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
 
 1 - Fundamentals
 2 - Manipulation
@@ -77,5 +83,5 @@ q
 Which module to run?
 0
 
-C:\Users\Chris\OneDrive\Desktop\Seneca Fall2022\_CPR101 - Computer Principles\CPR_final_v2\group_n_version_2\x64\Debug\group_n_version_2.exe (process 57940) exited with code 0.
+C:\Users\Chris\OneDrive\Desktop\CPR_Final_Project\CPR_final_part_3\x64\Debug\CPR_final_part_3.exe (process 6044) exited with code 0.
 Press any key to close this window . . .

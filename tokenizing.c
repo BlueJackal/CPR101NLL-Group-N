@@ -28,8 +28,6 @@ void tokenizing(void) {
     } while (strcmp(words, "q") != 0);                                         //quit the function if the user types "q"
     printf("*** End of Tokenizing Words Demo ***\n\n");                        //tell the user the tokenizing words demo has ended
 
-    
-
 
 
 
@@ -40,7 +38,7 @@ void tokenizing(void) {
 
     //V2
     char    phrases[BUFFER_SIZE];                                                       //declare variables for tokenizing
-    char*   nextPhrase = NULL;
+    char* nextPhrase = NULL;
     int     phrasesCounter;
 
     printf("*** Start of Tokenizing Phrases Demo ***\n");                               //mark beginning of tokenizing demo
@@ -59,5 +57,31 @@ void tokenizing(void) {
         }                                                                               //end if
     } while (strcmp(phrases, "q") != 0);                                                //end while
     printf("*** End of Tokenizing Phrases Demo ***\n\n");                               //mark end of tokenizing demo
+
+
+
+
+    /* / / / / / / / / / / / / / / / / / /
+          V E R S I O N   T H R E E
+    / / / / / / / / / / / / / / / / / / */
+
+    printf("*** Start of Tokenizing Sentences Demo ***\n");                             //mark beginning of tokenizing sentences demo
+    char    sentences[BUFFER_SIZE];                                                     //declare our tokenizing cariables
+    char*   nextSentence = NULL;
+    int     sentencesCounter;
+    do {                                                                                //while the user hasn't entered a single 'q' as their input:
+        printf("Type a few sentences separated by dot(q - to quit):\n");                    
+        fgets(sentences, BUFFER_SIZE, stdin);                                               //capture user input and store to sentences variable
+        sentences[strlen(sentences) - 1] = '\0';                                            //null terminate sentences to make sure we get no errors
+        if ((strcmp(sentences, "q") != 0)) {                                                //if user hasn't entered 'q' as their only input,
+            nextSentence = strtok(sentences, ".");                                                  //set nextSentence to the characters before the next delimiter (.)
+            sentencesCounter = 1;                                                                   //begin counting sentences by setting sentencesCounter to 1
+            while (nextSentence) {                                                                  //while a next sentence exists,
+                printf("Sentence #%d is \'%s\'\n", sentencesCounter++, nextSentence);                   //iterate through the user's input and print 
+                nextSentence = strtok(NULL, ".");                                                       //sentences until none remain
+            }                                                                           //end sentences loop
+        }                                                                               //end if for 'quit' input
+    } while (strcmp(sentences, "q") != 0);                                              //end while for 'quit' input
+    printf("*** End of Tokenizing Sentences Demo ***\n\n");                             //mark end for sentences tokenizing demo
 
 }

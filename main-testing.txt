@@ -16,6 +16,13 @@ q
 The length of 'q' is 1 characters
 *** End of Measuring Strings Demo ***
 
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit):
+q
+New destination string is 'q'
+*** End of Copying Strings Demo ***
+
 1 - Fundamentals
 2 - Manipulation
 3 - Converting
@@ -32,9 +39,17 @@ q
 Type the 1st string to compare (q - to quit):
 q
 Type the 2nd string to compare:
-3
-'q' string is greater than '3'
+q
+'q' string is equal to 'q'
 *** End of Comparing Strings Demo ***
+
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit):
+q
+Type the substring:
+q
+'q' found at 0 position
+*** End of Searching Strings Demo ***
 
 1 - Fundamentals
 2 - Manipulation
@@ -42,14 +57,22 @@ Type the 2nd string to compare:
 4 - Tokenizing
 0 - Exit
 Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit:
 q
-1 - Fundamentals
-2 - Manipulation
-3 - Converting
-4 - Tokenizing
-0 - Exit
-Which module to run?
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numberic string (q - to quit):
 q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
+
 1 - Fundamentals
 2 - Manipulation
 3 - Converting
@@ -66,6 +89,11 @@ q
 Type a few phrases separated by comma(q - to quit):
 q
 *** End of Tokenizing Phrases Demo ***
+
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot(q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
 
 1 - Fundamentals
 2 - Manipulation
@@ -101,6 +129,11 @@ Type the character position within the string:
 1
 The character found at 1 position is 'e'
 Type not empty string (q - to quit):
+Pumpkins are great
+Type the character position within the string:
+3
+The character found at 3 position is 'p'
+Type not empty string (q - to quit):
 q
 *** End of Indexing Strings Demo ***
 
@@ -125,6 +158,29 @@ q
 The length of 'q' is 1 characters
 *** End of Measuring Strings Demo ***
 
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit):
+Finals week is super stressful
+New destination string is 'Finals week is super stressful'
+Destination string is reset to empty
+Type the source string (q - to quit):
+Finals week is super stressful
+New destination string is 'Finals week is super stressful'
+Destination string is reset to empty
+Type the source string (q - to quit):
+Finals week is super stressful
+New destination string is 'Finals week is super stressful'
+Destination string is reset to empty
+Type the source string (q - to quit):
+Finals week is super stressful
+New destination string is 'Finals week is super stressful'
+Destination string is reset to empty
+Type the source string (q - to quit):
+q
+New destination string is 'q'
+*** End of Copying Strings Demo ***
+
 1 - Fundamentals
 2 - Manipulation
 3 - Converting
@@ -133,11 +189,6 @@ The length of 'q' is 1 characters
 Which module to run?
 2
 *** Start of Concatenating Strings Demo ***
-Type the 1st string (q - to quit):
-first
-Type the 2nd string:
- second
-Concatenated string is 'first second'
 Type the 1st string (q - to quit):
 first
 Type the 2nd string:
@@ -176,6 +227,11 @@ airplane
 Type the 1st string to compare (q - to quit):
 universe
 Type the 2nd string to compare:
+potto
+'universe' string is greater than 'potto'
+Type the 1st string to compare (q - to quit):
+universe
+Type the 2nd string to compare:
 potato
 'universe' string is greater than 'potato'
 Type the 1st string to compare (q - to quit):
@@ -184,6 +240,29 @@ Type the 2nd string to compare:
 q
 'q' string is equal to 'q'
 *** End of Comparing Strings Demo ***
+
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit):
+Around the world in 80 days
+Type the substring:
+world
+'world' found at 11 position
+Type the string (q - to quit):
+The next avatar movie comes out soon
+Type the substring:
+avatar
+'avatar' found at 9 position
+Type the string (q - to quit):
+vr headsets are pretty cool
+Type the substring:
+headsets
+'headsets' found at 3 position
+Type the string (q - to quit):
+q
+Type the substring:
+
+'' found at 0 position
+*** End of Searching Strings Demo ***
 
 1 - Fundamentals
 2 - Manipulation
@@ -205,6 +284,9 @@ Converted number is 5678
 Type an int numeric string (q - to quit:
 9101112
 Converted number is 9101112
+Type an int numeric string (q - to quit:
+1234
+Converted number is 1234
 Type an int numeric string (q - to quit:
 q
 *** End of Converting Strings to int Demo ***
@@ -229,6 +311,26 @@ Type the double numberic string (q - to quit):
 q
 *** End of Converting Strings to double Demo ***
 
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+1000
+Converted number is 1000
+Type the long numeric string (q - to quit):
+2000
+Converted number is 2000
+Type the long numeric string (q - to quit):
+3000
+Converted number is 3000
+Type the long numeric string (q - to quit):
+4000
+Converted number is 4000
+Type the long numeric string (q - to quit):
+5000
+Converted number is 5000
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
+
 1 - Fundamentals
 2 - Manipulation
 3 - Converting
@@ -250,10 +352,10 @@ Word #2 is 'a'
 Word #3 is 'few'
 Word #4 is 'words'
 Type a few words separated by space (q - to quit):
-and then some more
+and then soe more
 Word #1 is 'and'
 Word #2 is 'then'
-Word #3 is 'some'
+Word #3 is 'soe'
 Word #4 is 'more'
 Type a few words separated by space (q - to quit):
 and even more after
@@ -285,6 +387,21 @@ Type a few phrases separated by comma(q - to quit):
 q
 *** End of Tokenizing Phrases Demo ***
 
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot(q - to quit):
+lunar space module seven.coming in for a landing.roger that
+Sentence #1 is 'lunar space module seven'
+Sentence #2 is 'coming in for a landing'
+Sentence #3 is 'roger that'
+Type a few sentences separated by dot(q - to quit):
+Yar har me hearties.I be swabbin the poop deck.Life's grand as a pirate
+Sentence #1 is 'Yar har me hearties'
+Sentence #2 is 'I be swabbin the poop deck'
+Sentence #3 is 'Life's grand as a pirate'
+Type a few sentences separated by dot(q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
+
 1 - Fundamentals
 2 - Manipulation
 3 - Converting
@@ -293,5 +410,5 @@ q
 Which module to run?
 0
 
-C:\Users\Chris\OneDrive\Desktop\Seneca Fall2022\_CPR101 - Computer Principles\CPR_final_v2\group_n_version_2\x64\Debug\group_n_version_2.exe (process 27724) exited with code 0.
+C:\Users\Chris\OneDrive\Desktop\CPR_Final_Project\CPR_final_part_3\x64\Debug\CPR_final_part_3.exe (process 4260) exited with code 0.
 Press any key to close this window . . .

@@ -25,7 +25,7 @@ void converting(void) {
 
 
     /* / / / / / / / / / / / / / / / / / /
-            V E R S I O N   T W O 
+            V E R S I O N   T W O
     / / / / / / / / / / / / / / / / / / */
 
     printf("*** Start of Converting Strings to double Demo ***\n");         //Mark beginning of coverting demo #2
@@ -43,6 +43,23 @@ void converting(void) {
     printf("*** End of Converting Strings to double Demo ***\n\n");         //Mark end of coverting demo #2
 
 
-    /* Version 3 */
+
+    /* / / / / / / / / / / / / / / / / / /
+          V E R S I O N   T H R E E
+    / / / / / / / / / / / / / / / / / / */
+
+    printf("*** Start of Converting Strings to long Demo ***\n");           //mark beginning of converting to long demo
+    char    longString[BUFFER_SIZE];                                        //create a variables to hold user input and conversion result
+    long    longNumber;
+    do {                                                                    //accept conversion input until the user enters a single 'q'
+        printf("Type the long numeric string (q - to quit):\n");
+        fgets(longString, BUFFER_SIZE, stdin);                              //capture the user's input and store to the longString variable
+        longString[strlen(longString) - 1] = '\0';                          //null terminate the user's input string (always a best practice)
+        if ((strcmp(longString, "q") != 0)) {                               //if the user's input was equal to q, exit sequence. Otherwise:
+            longNumber = atol(longString);                                      //use the atol function to convert the user input string to a long integer
+            printf("Converted number is %ld\n", longNumber);                    //display the result
+        }
+    } while (strcmp(longString, "q") != 0);                                 //end long conversion while loop
+    printf("*** End of Converting Strings to long Demo ***\n\n");           //mark end of converting to long demo
 
 }
